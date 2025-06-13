@@ -1,0 +1,5 @@
+# 금일 작업
+## pizzacut api 
+- equip 라우트, 서비스 수정하여 상점 구매 로직을 분리
+## pizzacut app 
+- 구매 요청 url 수정 ~/equip/{userId}/purchase -> ~/store/{userId}/purchase 
