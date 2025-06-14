@@ -1,0 +1,5 @@
+# 금일 작업
+## pizzacut app 
+- 하트 관련 서비스 추가
+   - 첫 로그인 시 처리를 위해 User의 heart속성을 nullable로 변경
+- 하트 서비스 url 지정 
