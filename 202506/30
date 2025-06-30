@@ -1,0 +1,5 @@
+# 금일 작업
+## intervalrunning api 
+- docker file 작성
+- jenkins 파일 작성 및 파이프라인 추가 및 깃 웹훅 연결하여 CD 테스트
+- 서버에 리버스 프록시 추가하여 swagger 오픈 확인
