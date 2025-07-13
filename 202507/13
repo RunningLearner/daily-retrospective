@@ -1,0 +1,8 @@
+# 금일 작업
+## pizzacut api 
+- 중복된 파일제거
+- record 엔드포인트 오류 해결
+
+## pizzacut app
+- 서버와 일치하도록 url 경로 수정
+- 기록 저장 테스트 완료
